@@ -1,0 +1,2 @@
+# Employee-Management-System-Full-Stack-Application
+This is a full stack application with complete functionality that is required to manage a employee through creating an emloyee in database, view an employe from the database, list of employees in the database, updating an employee detail in the dataase and deleting an employee from the database. The technologies usd in this application are Java SpringBoot for backend and Angular for frontend.
